@@ -4,7 +4,13 @@ Backend Software Engineer with nearly 6 years of experience architecting resilie
 
 > 🏆 **Global Milestone:** Among the very few people globally who solved all available 3900+ LeetCode problems, reaching a peak Global Rank of **4 out of 5M+** users.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian__2445-F89F1B?style=flat-square&logo=leetcode&logoColor=333333)](https://leetcode.com/u/agrawalji/) [![CodeChef](https://img.shields.io/badge/CodeChef-4__Star__1848-D3A625?style=flat-square&logo=codechef&logoColor=333333)](https://www.codechef.com/users/nikhil97agr) [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist__1411-3B88C3?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil97agra) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilagrawal97/) [![Unstop](https://img.shields.io/badge/Unstop-Mentorship-004FC7?style=flat-square&logo=unstop&logoColor=white)](https://unstop.com/mentor/nikhagra)
+### 📊 Engineering Stats & Technical Profiles
+
+| Platform | Credentials & Rating | Professional Network |
+| :--- | :--- | :--- |
+| **LeetCode** | <a href="https://leetcode.com/u/agrawalji/" target="_blank" rel="noopener noreferrer">🎯 Guardian (Rating: 2445)</a> | <a href="https://www.linkedin.com/in/nikhilagrawal97/" target="_blank" rel="noopener noreferrer">💼 LinkedIn Connect</a> |
+| **CodeChef** | <a href="https://www.codechef.com/users/nikhil97agr" target="_blank" rel="noopener noreferrer">⭐ 4-Star (Rating: 1848)</a> | <a href="https://unstop.com/mentor/nikhagra" target="_blank" rel="noopener noreferrer">🚀 Unstop Mentorship</a> |
+| **Codeforces** | <a href="https://codeforces.com/profile/nikhil97agra" target="_blank" rel="noopener noreferrer">🔷 Specialist (Rating: 1411)</a> | |
 
 ---
 
