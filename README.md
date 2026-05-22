@@ -38,12 +38,12 @@ A chronological look at production impacts, architectural ownership, and core sy
 * **SaaS Observability Platform:** Built core backend-driven metric visualization flows for *Akamai Cloud Pulse*, tracking real-time infrastructure performance data down to a **1-minute granularity**.
 * **Developer Workflow Automation:** Created custom GitHub workflows and communication bot bridges to automate PR cycles, accelerating internal deployment velocity.
 
-### 🔹 Software Engineer II (Senior Associate) • Morgan Stanley
+### 🔹 Software Engineer II • Morgan Stanley
 * **Risk Monitoring Microservices:** Designed highly resilient Java microservices managing distributed time-series data and financial stress-testing logic.
 * **Performance Optimization:** Integrated **Redis** caching infrastructure to optimize complex database read paths and authored shared enterprise libraries across multiple microservice boundaries.
 * **Test-Driven Development (TDD):** Maintained **80%+ strict code coverage** baselines integrated directly through SonarQube automation gates.
 
-### 🔹 Software Engineer (Senior Data Engineer) • LTIMindtree
+### 🔹 Software Engineer • LTIMindtree
 * **Automation Engineering:** Authored internal Python tooling for active telemetry checking across 15+ core resources, saving 100% manual operations overhead.
 * **Internal Applications:** Built enterprise financial utility tools using Spring Boot and MySQL to cut manual analytics operations.
 
