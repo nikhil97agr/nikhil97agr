@@ -18,13 +18,13 @@ Backend Software Engineer with nearly 6 years of experience building high-throug
 
 ## 📈 Algorithmic Milestones & Profiles
 
-> 🏆 **Global Milestone:** The first Indian engineer to solve **every single available problem (3,900+) on LeetCode**, reaching a peak Global Rank within the **Top 4**.
+> 🏆 **Global Milestone:** Among the very few people globally who solved all available 3900+ LeetCode problems, reaching a peak Global Rank of **4 out of 5M+** users.
 
 Click any badge below to view my live performance tracking, historical submissions, and competition metrics:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian_2445-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalji/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4_Star_1848-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikhil97agr)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1411-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil97agra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian__2445-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalji/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4__Star__1848-D0A934?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikhil97agr)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist__1411-318CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil97agra)
 
 ---
 
@@ -56,12 +56,7 @@ A chronological look at production impacts, architectural ownership, and core sy
 Here is a live look at my GitHub activity and primary ecosystem footprint:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhl97agr&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil97agr&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
----
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
-</p>
