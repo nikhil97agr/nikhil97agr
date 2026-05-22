@@ -4,6 +4,29 @@ Backend Software Engineer with nearly 6 years of experience architecting resilie
 
 ---
 
+## ⏳ Integrated Workflow Timeline
+
+A chronological look at production impacts, architectural ownership, and core system optimizations over my career:
+
+### 🔹 Backend Engineer III • Tide
+* **Adaptive Data Acquisition Framework (ADAF):** Designed and developed an end-to-end, event-driven Request For Information (RFI) solution using **Java, Spring Boot, PostgreSQL, and AWS SNS/SQS** to streamline complex risk workflows. Engineered scalable REST APIs, custom database schemas, async processors, and notification pipelines that reduced transaction resolution times by **30–40%**.
+* **Agentic AI Document Verification Platform:** Built and own an end-to-end automated verification engine that validates high-risk transaction documents to instantly flag forged proofs. Designed the system as a generic, extensible microservices pipeline using Spring Boot, PostgreSQL, and event-driven orchestration—saving **$3M annually** in fraud losses and allowing multiple internal teams to integrate seamlessly via asynchronous streams without building separate pipelines.
+
+### 🔹 Software Engineer II • Akamai Technologies
+* **SaaS Observability Platform:** Built core backend-driven metric visualization flows for *Akamai Cloud Pulse*, tracking real-time infrastructure performance data down to a **1-minute granularity**.
+* **Developer Workflow Automation:** Created custom GitHub workflows and communication bot bridges to automate PR cycles, accelerating internal deployment velocity.
+
+### 🔹 Software Engineer II (Senior Associate) • Morgan Stanley
+* **Risk Monitoring Microservices:** Designed highly resilient Java microservices managing distributed time-series data and financial stress-testing logic.
+* **Performance Optimization:** Integrated **Redis** caching infrastructure to optimize complex database read paths and authored shared enterprise libraries across multiple microservice boundaries.
+* **Test-Driven Development (TDD):** Maintained **80%+ strict code coverage** baselines integrated directly through SonarQube automation gates.
+
+### 🔹 Software Engineer (Senior Data Engineer) • LTIMindtree
+* **Automation Engineering:** Authored internal Python tooling for active telemetry checking across 15+ core resources, saving 100% manual operations overhead.
+* **Internal Applications:** Built enterprise financial utility tools using Spring Boot and MySQL to cut manual analytics operations.
+
+---
+
 ## 🛠️ Tech Stack & Ecosystem
 
 | Layer | Technologies |
@@ -31,23 +54,6 @@ Click the badges below to view my active competitive programming rankings and pr
 
 ---
 
-## ⏳ Integrated Workflow Timeline
-
-A chronological look at production impacts, architectural ownership, and core system optimizations over my career:
-
-### 🔹 Backend Engineer III • Tide
-* **Adaptive Data Acquisition Framework (ADAF):** Designed and developed an end-to-end, event-driven Request For Information (RFI) solution using **Java, Spring Boot, PostgreSQL, and AWS SNS/SQS** to streamline complex risk workflows. Engineered scalable REST APIs, custom database schemas, async processors, and notification pipelines that reduced transaction resolution times by **30–40%**.
-* **Agentic AI Document Verification Platform:** Built and own an end-to-end automated verification engine that validates high-risk transaction documents to instantly flag forged proofs. Designed the system as a generic, extensible microservices pipeline using Spring Boot, PostgreSQL, and event-driven orchestration—saving **$3M annually** in fraud losses and allowing multiple internal teams to integrate seamlessly via asynchronous streams without building separate pipelines.
-
-### 🔹 Software Engineer II • Akamai Technologies
-* **SaaS Observability Platform:** Built core backend-driven metric visualization flows for *Akamai Cloud Pulse*, tracking real-time infrastructure performance data down to a **1-minute granularity**.
-* **Developer Workflow Automation:** Created custom GitHub workflows and communication bot bridges to automate PR cycles, accelerating internal deployment velocity.
-
-### 🔹 Software Engineer II (Senior Associate) • Morgan Stanley
-* **Risk Monitoring Microservices:** Designed highly resilient Java microservices managing distributed time-series data and financial stress-testing logic.
-* **Performance Optimization:** Integrated **Redis** caching infrastructure to optimize complex database read paths and authored shared enterprise libraries across multiple microservice boundaries.
-* **Test-Driven Development (TDD):** Maintained **80%+ strict code coverage** baselines integrated directly through SonarQube automation gates.
-
-### 🔹 Software Engineer (Senior Data Engineer) • LTIMindtree
-* **Automation Engineering:** Authored internal Python tooling for active telemetry checking across 15+ core resources, saving 100% manual operations overhead.
-* **Internal Applications:** Built enterprise financial utility tools using Spring Boot and MySQL to cut manual analytics operations.
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
+</p>
