@@ -1,6 +1,6 @@
 # Hi, I'm a Backend & Distributed Systems Engineer 👋
 
-Backend Software Engineer with nearly 6 years of experience building high-throughput distributed systems, event-driven architectures, and observability platforms. Deeply passionate about advanced algorithmic problem solving and writing clean, scalable code.
+Backend Software Engineer with nearly 6 years of experience architecting resilient distributed systems, event-driven platforms, and high-throughput microservices. Expert in Java/Spring ecosystems and relational/NoSQL datastores, with a proven track record of optimizing transaction latency, mitigating platform fraud risk, and establishing strict observability pipelines. Driven by complex architectural challenges and world-class algorithmic execution.
 
 ---
 
@@ -20,11 +20,14 @@ Backend Software Engineer with nearly 6 years of experience building high-throug
 
 > 🏆 **Global Milestone:** Among the very few people globally who solved all available 3900+ LeetCode problems, reaching a peak Global Rank of **4 out of 5M+** users.
 
-Click any badge below to view my live performance tracking, historical submissions, and competition metrics:
+Click the badges below to view my active competitive programming rankings and professional networks:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian__2445-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalji/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4__Star__1848-D0A934?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikhil97agr)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist__1411-318CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil97agra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian__2445-F89F1B?style=for-the-badge&logo=leetcode&logoColor=333333)](https://leetcode.com/u/agrawalji/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4__Star__1848-D3A625?style=for-the-badge&logo=codechef&logoColor=333333)](https://www.codechef.com/users/nikhil97agr)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist__1411-3B88C3?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil97agra)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilagrawal97/)
+[![Unstop](https://img.shields.io/badge/Unstop-Mentorship-004FC7?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/mentor/nikhagra)
 
 ---
 
@@ -32,9 +35,9 @@ Click any badge below to view my live performance tracking, historical submissio
 
 A chronological look at production impacts, architectural ownership, and core system optimizations over my career:
 
-### 🔹 [Current] Backend Engineer III • Tide
-* **Adaptive Data Acquisition Framework (ADAF):** Designed and developed an end-to-end, event-driven Request For Information (RFI) solution using **Java, Spring Boot, PostgreSQL, and AWS SNS/SQS**.
-* **Fraud Prevention Engine:** Developed a generic, extensible Agentic AI-powered Document Verification platform to catch forged proofs, reducing critical transaction resolution times by **30–40%** and mitigating massive annual fraud losses.
+### 🔹 Backend Engineer III • Tide
+* **Adaptive Data Acquisition Framework (ADAF):** Designed and developed an end-to-end, event-driven Request For Information (RFI) solution using **Java, Spring Boot, PostgreSQL, and AWS SNS/SQS** to streamline complex risk workflows. Engineered scalable REST APIs, custom database schemas, async processors, and notification pipelines that reduced transaction resolution times by **30–40%**.
+* **Agentic AI Document Verification Platform:** Built and own an end-to-end automated verification engine that validates high-risk transaction documents to instantly flag forged proofs. Designed the system as a generic, extensible microservices pipeline using Spring Boot, PostgreSQL, and event-driven orchestration—saving **$3M annually** in fraud losses and allowing multiple internal teams to integrate seamlessly via asynchronous streams without building separate pipelines.
 
 ### 🔹 Software Engineer II • Akamai Technologies
 * **SaaS Observability Platform:** Built core backend-driven metric visualization flows for *Akamai Cloud Pulse*, tracking real-time infrastructure performance data down to a **1-minute granularity**.
@@ -48,15 +51,3 @@ A chronological look at production impacts, architectural ownership, and core sy
 ### 🔹 Software Engineer (Senior Data Engineer) • LTIMindtree
 * **Automation Engineering:** Authored internal Python tooling for active telemetry checking across 15+ core resources, saving 100% manual operations overhead.
 * **Internal Applications:** Built enterprise financial utility tools using Spring Boot and MySQL to cut manual analytics operations.
-
----
-
-## 📊 Live System Metrics
-
-Here is a live look at my GitHub activity and primary ecosystem footprint:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhl97agr&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil97agr&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
-</p>
-
