@@ -4,13 +4,9 @@ Backend Software Engineer with nearly 6 years of experience architecting resilie
 
 > 🏆 **Global Milestone:** Among the very few people globally who solved all available 3900+ LeetCode problems, reaching a peak Global Rank of **4 out of 5M+** users.
 
-### 📊 Engineering Stats & Technical Profiles
+<a href="https://leetcode.com/u/agrawalji/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-Guardian__2445-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> <a href="https://www.codechef.com/users/nikhil97agr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodeChef-4__Star__1848-9B4F1B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a> <a href="https://codeforces.com/profile/nikhil97agra" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-Specialist__1411-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 
-| Platform | Credentials & Rating | Professional Network |
-| :--- | :--- | :--- |
-| **LeetCode** | <a href="https://leetcode.com/u/agrawalji/" target="_blank" rel="noopener noreferrer">🎯 Guardian (Rating: 2445)</a> | <a href="https://www.linkedin.com/in/nikhilagrawal97/" target="_blank" rel="noopener noreferrer">💼 LinkedIn Connect</a> |
-| **CodeChef** | <a href="https://www.codechef.com/users/nikhil97agr" target="_blank" rel="noopener noreferrer">⭐ 4-Star (Rating: 1848)</a> | <a href="https://unstop.com/mentor/nikhagra" target="_blank" rel="noopener noreferrer">🚀 Unstop Mentorship</a> |
-| **Codeforces** | <a href="https://codeforces.com/profile/nikhil97agra" target="_blank" rel="noopener noreferrer">🔷 Specialist (Rating: 1411)</a> | |
+<a href="https://nikhil97agr.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Personal__Site-00A3A0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/nikhilagrawal97/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://unstop.com/mentor/nikhagra" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Unstop-Mentorship-004FC7?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop" /></a>
 
 ---
 
@@ -46,9 +42,3 @@ A chronological look at production impacts, architectural ownership, and core sy
 | **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![IBM DB2](https://img.shields.io/badge/DB2-052D56?style=flat-square&logo=ibm&logoColor=white) |
 | **Messaging & Infra** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![AWS SQS/SNS](https://img.shields.io/badge/AWS_SQS%20%2F%20SNS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Tools & CI/CD** | ![GitHub Workflows](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) |
-
----
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
-</p>
